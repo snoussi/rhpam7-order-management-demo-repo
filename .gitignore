@@ -7,4 +7,6 @@
 *.jpage
 **/project.repositories
 *.ucls
-*.backup
+## all .files except ignore
+.*
+!.gitignore
